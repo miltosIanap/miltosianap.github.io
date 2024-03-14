@@ -1,0 +1,2325 @@
+{
+	"Id": 46763,
+	"QuestTitle": "Εργαλείο Δεξιοτήτων",
+	"Completion": 1,
+	"QuestionResults": [
+		{
+			"Title": "Μπορείς να φανταστείς την όψη αντικειμένων μέσα στο χώρο από διάφορα πρίσματα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4671,
+			"RevisionId": 6267,
+			"Time": 29744,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΝΤΙΛΗΨΗ ΧΩΡΟΥ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να φανταστείς την όψη αντικειμένων σε τρεις διαστάσεις, όταν είναι σχεδιασμένα σε δύο;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4672,
+			"RevisionId": 6268,
+			"Time": 15896,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΝΤΙΛΗΨΗ ΧΩΡΟΥ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να κρεμάσεις πίνακες στους τοίχους υπολογίζοντας τις διαστάσεις για να τοποθετηθούν συμμετρικά μεταξύ τους και σε σχέση με τα υπόλοιπα έπιπλα και αντικείμενα του χώρου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4673,
+			"RevisionId": 6269,
+			"Time": 15786,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΝΤΙΛΗΨΗ ΧΩΡΟΥ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να βρεις τρόπους να τοποθετήσεις αντικείμενα σε ένα κιβώτιο ή στο πορτ- μπαγκάζ του αυτοκινήτου, έτσι που να χωρέσουν όσο το δυνατόν περισσότερα χωρίς να πάει χαμένος ο χώρος;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4674,
+			"RevisionId": 6270,
+			"Time": 7872,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΝΤΙΛΗΨΗ ΧΩΡΟΥ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Προσανατολίζεσαι εύκολα όταν βρεθείς σε ένα άγνωστο μέρος π.χ. χρησιμοποιώντας ένα χάρτη βρίσκεις εύκολα το δρόμο;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4675,
+			"RevisionId": 6271,
+			"Time": 4913,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΝΤΙΛΗΨΗ ΧΩΡΟΥ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά μπορείς να καταλάβεις με ακρίβεια τη θέση αντικειμένων και σχημάτων στο χώρο;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4676,
+			"RevisionId": 6272,
+			"Time": 7530,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΝΤΙΛΗΨΗ ΧΩΡΟΥ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να κάνεις υπολογισμούς προφορικά;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4677,
+			"RevisionId": 6273,
+			"Time": 7102,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς εύκολα να υπολογίσεις ποσοστά;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4678,
+			"RevisionId": 6274,
+			"Time": 14699,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να κάνεις πράξεις με κλάσματα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4679,
+			"RevisionId": 6275,
+			"Time": 12100,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Όταν σου δίνουν ρέστα, μπορείς εύκολα να υπολογίσεις αν είναι σωστά;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4680,
+			"RevisionId": 6276,
+			"Time": 5253,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να διαιρέσεις ή να πολλαπλασιάσεις με δεκαδικούς αριθμούς;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4681,
+			"RevisionId": 6277,
+			"Time": 17879,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να προσθέσεις τις τιμές των αγαθών που αγόρασες, χωρίς να χρησιμοποιήσεις αριθμομηχανή;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4682,
+			"RevisionId": 6278,
+			"Time": 14626,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να υπολογίσεις την έκπτωση σε ένα προϊόν όταν κάνεις μια αγορά;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4683,
+			"RevisionId": 6279,
+			"Time": 11535,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά, χειρίζεσαι εύκολα τους αριθμούς;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4684,
+			"RevisionId": 6280,
+			"Time": 12166,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Στο σχολείο ήσουν καλός/ή στα μαθηματικά, φυσική, γραμματική, συντακτικό;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4685,
+			"RevisionId": 6281,
+			"Time": 9077,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΦΑΙΡΕΤΙΚΗ ΣΚΕΨΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Διαβάζοντας ένα κείμενο μπορείς εύκολα να παρουσιάσεις στους άλλους το κεντρικό νόημα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4686,
+			"RevisionId": 6282,
+			"Time": 6005,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΦΑΙΡΕΤΙΚΗ ΣΚΕΨΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Διαβάζεις και καταλαβαίνεις εύκολα επιστημονικές θεωρίες;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4687,
+			"RevisionId": 6283,
+			"Time": 4847,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΦΑΙΡΕΤΙΚΗ ΣΚΕΨΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Είσαι καλός/ή σε παιχνίδια όπως σκάκι, master mind κλπ;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4688,
+			"RevisionId": 6284,
+			"Time": 4483,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΦΑΙΡΕΤΙΚΗ ΣΚΕΨΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά μπορείς να αναγνωρίσεις συσχετίσεις σε μια σειρά γεγονότων, να προβλέπεις τις επιπτώσεις συγκεκριμένων καταστάσεων, να λύνεις αφηρημένα προβλήματα, να βγάζεις συμπεράσματα μετά από σειρά υποθετικών σκέψεων;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4689,
+			"RevisionId": 6285,
+			"Time": 7226,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΑΦΑΙΡΕΤΙΚΗ ΣΚΕΨΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Είσαι ορθογράφος;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4690,
+			"RevisionId": 6286,
+			"Time": 7588,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Χρησιμοποιείς πλούσιο λεξιλόγιο αποφεύγοντας να επαναλαμβάνεις τις ίδιες λέξεις;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4691,
+			"RevisionId": 6287,
+			"Time": 4281,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μαθαίνεις εύκολα ξένες γλώσσες;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4692,
+			"RevisionId": 6288,
+			"Time": 5017,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Λύνεις σταυρόλεξα με ευκολία;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4693,
+			"RevisionId": 6289,
+			"Time": 3745,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Όταν σου ζητούν να σχολιάσεις ή να διηγηθείς κάτι το κάνεις με ευχέρεια;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4694,
+			"RevisionId": 6290,
+			"Time": 5179,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Έχεις ευφράδεια, μπορείς να αναπτύξεις ένα θέμα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4695,
+			"RevisionId": 6291,
+			"Time": 4333,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Καταλαβαίνεις εύκολα κάτι που διάβασες ή άκουσες;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4696,
+			"RevisionId": 6292,
+			"Time": 3182,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να συνοψίσεις αυτά που λένε οι άλλοι;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4697,
+			"RevisionId": 6293,
+			"Time": 3323,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να δίνεις οδηγίες με σαφήνεια;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4698,
+			"RevisionId": 6294,
+			"Time": 3185,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά, γνωρίζεις και χειρίζεσαι ικανοποιητικά τη γλώσσα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4699,
+			"RevisionId": 6295,
+			"Time": 3781,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Σέβεσαι τις απόψεις των άλλων;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4700,
+			"RevisionId": 6296,
+			"Time": 2673,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Καταλαβαίνεις τι αισθάνονται και τι σκέφτονται οι άλλοι;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4701,
+			"RevisionId": 6297,
+			"Time": 3563,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Είσαι φιλόξενος;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4702,
+			"RevisionId": 6298,
+			"Time": 2410,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Έχεις υπομονή να εξηγείς πράγματα σε άλλους;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4703,
+			"RevisionId": 6299,
+			"Time": 2754,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Όταν κάποιος απευθύνεται σε εσένα για να σου μιλήσει για τα προβλήματά του, δέχεσαι να τον ακούσεις και δεν τον αποφεύγεις;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4704,
+			"RevisionId": 6300,
+			"Time": 5659,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Σου είναι εύκολο να κάνεις τον άλλον να αισθανθεί άνετα μαζί σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4705,
+			"RevisionId": 6301,
+			"Time": 4689,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Πιστεύουν οι άλλοι ότι είσαι κοινωνικός;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4706,
+			"RevisionId": 6302,
+			"Time": 3272,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Έχεις υπομονή με τους άλλους;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4707,
+			"RevisionId": 6303,
+			"Time": 3052,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να αντιμετωπίσεις διακριτικά τους δύσκολους συναδέλφους στην εργασία σου χωρίς να χάσεις την υπομονή σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4708,
+			"RevisionId": 6304,
+			"Time": 5163,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να συνεργάζεσαι για να επιτύχετε ένα κοινό στόχο;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4709,
+			"RevisionId": 6305,
+			"Time": 10220,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά, μπορείς εύκολα να επικοινωνείς με τους άλλους;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4710,
+			"RevisionId": 6306,
+			"Time": 4751,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Είσαι δραστήριος/α;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4711,
+			"RevisionId": 6307,
+			"Time": 3050,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να επιχειρηματολογείς για να υποστηρίζεις τη γνώμη σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4712,
+			"RevisionId": 6308,
+			"Time": 4132,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Σε παραδέχονται οι άλλοι σαν αρχηγό της ομάδας;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4713,
+			"RevisionId": 6309,
+			"Time": 3793,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Παρασύρονται οι άλλοι εύκολα από τις ενέργειές σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4714,
+			"RevisionId": 6310,
+			"Time": 3760,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Δέχονται οι άλλοι την καθοδήγησή σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4715,
+			"RevisionId": 6311,
+			"Time": 3165,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Απευθύνονται οι άλλοι σε σένα για να διευθετήσεις κάποια παρεξήγηση που έγινε μεταξύ τους;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4716,
+			"RevisionId": 6312,
+			"Time": 3653,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Προκαλείς μια συζήτηση για να εκθέσεις στους άλλους τις απόψεις σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4717,
+			"RevisionId": 6313,
+			"Time": 5841,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Όταν διαφωνείς με τις απόψεις των άλλων σε συζήτηση, αντιπαραθέτεις τις δικές σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4718,
+			"RevisionId": 6314,
+			"Time": 6595,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Σου αρέσει να παίρνεις μόνος τις αποφάσεις σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4719,
+			"RevisionId": 6315,
+			"Time": 7399,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Συζητάς εύκολα με σπουδαία πρόσωπα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4720,
+			"RevisionId": 6316,
+			"Time": 3291,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Έχεις πρωτότυπες ιδέες για να αυξήσεις το κέρδος σου και τις προωθείς υπεύθυνα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4721,
+			"RevisionId": 6317,
+			"Time": 5185,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να ανταλλάξεις ή να πουλήσεις κάτι έτσι ώστε να έχεις όφελος;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4722,
+			"RevisionId": 6318,
+			"Time": 7524,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να αναλαμβάνεις ευθύνες έστω και με κίνδυνο και να παίρνεις αποφάσεις;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4723,
+			"RevisionId": 6319,
+			"Time": 6048,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να σχεδιάζεις και να προβλέπεις;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4724,
+			"RevisionId": 6320,
+			"Time": 3679,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να κατευθύνεις τους άλλους;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4725,
+			"RevisionId": 6321,
+			"Time": 3879,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να χειρίζεσαι οικονομικά θέματα και να βρίσκεις λύσεις με νέους τρόπους για να αυξήσεις το κέρδος σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4726,
+			"RevisionId": 6322,
+			"Time": 16442,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να διορθώσεις μια απλή βλάβη της τηλεόρασης, του ραδιοφώνου ή του Η/Υ;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4727,
+			"RevisionId": 6323,
+			"Time": 17943,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να συνδέσεις ηλεκτρικές λάμπες;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4728,
+			"RevisionId": 6324,
+			"Time": 5233,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να επισκευάσεις ένα ρολόι;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4729,
+			"RevisionId": 6325,
+			"Time": 3392,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Αν ένα αυτοκίνητο παρουσιάσει κάποια βλάβη μπορείς να καταλάβεις περίπου από πού προέρχεται;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4730,
+			"RevisionId": 6326,
+			"Time": 4562,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Ξέρεις να χρησιμοποιείς εργαλεία;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4731,
+			"RevisionId": 6327,
+			"Time": 3615,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Ξέρεις να χρησιμοποιείς ένα ηλεκτρικό τρυπάνι;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4732,
+			"RevisionId": 6328,
+			"Time": 3986,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να σχεδιάσεις πώς λειτουργεί μια μηχανή;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4733,
+			"RevisionId": 6329,
+			"Time": 4799,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά, βρίσκεις λύσεις σε μηχανικά και τεχνικά προβλήματα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4734,
+			"RevisionId": 6330,
+			"Time": 3553,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Αρχίζοντας μια δουλειά προγραμματίζεις τις διαδικασίες από πριν;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4735,
+			"RevisionId": 6331,
+			"Time": 3529,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Προγραμματίζεις τις λεπτομέρειες στη δουλειά σου για την επόμενη βδομάδα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4736,
+			"RevisionId": 6332,
+			"Time": 4137,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Βάζεις στόχους και σχεδιάζεις πώς θα τους πετύχεις με τη μεγαλύτερη οικονομία χρόνου, κόπου και με τα μέσα που έχεις;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4737,
+			"RevisionId": 6333,
+			"Time": 7438,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Έχεις σημειώσει τις διευθύνσεις φίλων σου και τα τηλέφωνά τους έτσι που να τα έχεις πρόχειρα όταν τα χρειαστείς;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4738,
+			"RevisionId": 6334,
+			"Time": 6394,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Έχεις αναλάβει την οργάνωση κάποιας κοινωνικής εκδήλωσης π.χ. να συγκεντρωθούν ρούχα και παιχνίδια για να δοθούν σε άτομα που έχουν ανάγκη;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4739,
+			"RevisionId": 6335,
+			"Time": 3704,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Έχεις οργανώσει κάποια γιορτή ή εκδρομή για πολλά άτομα με επιτυχία;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4740,
+			"RevisionId": 6336,
+			"Time": 5187,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Είσαι ακριβής στα ραντεβού σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4741,
+			"RevisionId": 6337,
+			"Time": 3315,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Ολοκληρώνεις τη δουλειά σου τηρώντας τα χρονοδιαγράμματα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4742,
+			"RevisionId": 6338,
+			"Time": 3523,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά, διαχειρίζεσαι σωστά το χρόνο σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4743,
+			"RevisionId": 6339,
+			"Time": 3310,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Αν βρεθείς σε μια ξένη χώρα όπου δεν μιλάς τη γλώσσα, μπορείς να εξυπηρετηθείς;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4744,
+			"RevisionId": 6340,
+			"Time": 4374,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Αν ξεμείνεις από χρήματα σε ένα εστιατόριο ξέρεις τι θα κάνεις;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4745,
+			"RevisionId": 6341,
+			"Time": 4311,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Αν έρθουν ξαφνικά καλεσμένοι μπορείς να ετοιμάσεις κάτι να φάνε με ό,τι βρίσκεται στο σπίτι;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4746,
+			"RevisionId": 6342,
+			"Time": 4884,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να χρησιμοποιήσεις παλιά πράγματα (π.χ. ρούχα, έπιπλα κλπ) για να φτιάξεις κάτι χρήσιμο;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4747,
+			"RevisionId": 6343,
+			"Time": 5470,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Ζεις για ένα διάστημα σε ένα σπίτι που δεν έχει ανέσεις. Μπορείς να βρεις τρόπους για να λύσεις προβλήματα (π.χ. θέρμανσης, φωτισμού, καθαριότητας, μαγειρέματος κλπ);",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4748,
+			"RevisionId": 6344,
+			"Time": 5758,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Πριν πας να ψωνίσεις σκέφτεσαι και προγραμματίζεις τι θα αγοράσεις και τα κανονίζεις έτσι που να τα προλάβεις όλα χωρίς χάσιμο χρόνου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4749,
+			"RevisionId": 6345,
+			"Time": 7899,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Παραμένεις ψύχραιμος/μη, όταν εμφανίζονται δυσκολίες;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4750,
+			"RevisionId": 6346,
+			"Time": 7420,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Όταν προγραμματίζεις, έχεις εναλλακτικές λύσεις σε περίπτωση που κάτι δεν πάει καλά;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4751,
+			"RevisionId": 6347,
+			"Time": 3997,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά, βρίσκεις λύση σε συγκεκριμένα πρακτικά προβλήματα που δεν έχεις ξανασυναντήσει;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4752,
+			"RevisionId": 6348,
+			"Time": 4613,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Αναλαμβάνεις βαριές δουλειές στο σπίτι;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4753,
+			"RevisionId": 6349,
+			"Time": 4347,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΣΩΜΑΤΙΚΗ ΑΝΤΟΧΗ ΚΑΙ ΔΥΝΑΜΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Αντέχεις την ορθοστασία, το περπάτημα, το τρέξιμο, το να ανεβαίνεις σκάλες;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4754,
+			"RevisionId": 6350,
+			"Time": 6853,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΣΩΜΑΤΙΚΗ ΑΝΤΟΧΗ ΚΑΙ ΔΥΝΑΜΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Έχεις γερή κράση;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4755,
+			"RevisionId": 6351,
+			"Time": 4239,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΣΩΜΑΤΙΚΗ ΑΝΤΟΧΗ ΚΑΙ ΔΥΝΑΜΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Τα καταφέρνεις χωρίς πολλές ώρες ύπνου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4756,
+			"RevisionId": 6352,
+			"Time": 3813,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΣΩΜΑΤΙΚΗ ΑΝΤΟΧΗ ΚΑΙ ΔΥΝΑΜΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Ξυπνάς εύκολα το πρωί;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4757,
+			"RevisionId": 6353,
+			"Time": 4137,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΣΩΜΑΤΙΚΗ ΑΝΤΟΧΗ ΚΑΙ ΔΥΝΑΜΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά, θεωρείς ότι έχεις περισσότερη δύναμη από τους συνομηλίκους σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4758,
+			"RevisionId": 6354,
+			"Time": 4651,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΣΩΜΑΤΙΚΗ ΑΝΤΟΧΗ ΚΑΙ ΔΥΝΑΜΗ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να γράψεις τα λόγια ενός τραγουδιού την ώρα που το ακούς;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4759,
+			"RevisionId": 6355,
+			"Time": 4538,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΑΧΥΤΗΤΑ ΚΑΙ ΑΚΡΙΒΕΙΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Επαληθεύεις πολλές φορές αν έχεις κάνει λάθος στη δουλειά σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4760,
+			"RevisionId": 6356,
+			"Time": 3783,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΑΧΥΤΗΤΑ ΚΑΙ ΑΚΡΙΒΕΙΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Προσέχεις όλες τις λεπτομέρειες, ώστε η δουλειά σου να είναι άψογη;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4761,
+			"RevisionId": 6357,
+			"Time": 3143,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΑΧΥΤΗΤΑ ΚΑΙ ΑΚΡΙΒΕΙΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να δακτυλογραφείς χωρίς να κάνεις λάθη;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4762,
+			"RevisionId": 6358,
+			"Time": 3659,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΑΧΥΤΗΤΑ ΚΑΙ ΑΚΡΙΒΕΙΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά, μπορείς να κάνεις δουλειές που απαιτούν μεγάλη προσοχή στις λεπτομέρειες με γρήγορο ρυθμό;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4763,
+			"RevisionId": 6359,
+			"Time": 3995,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΑΧΥΤΗΤΑ ΚΑΙ ΑΚΡΙΒΕΙΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να φτιάξεις διακοσμητικά ή χρήσιμα πράγματα από άχρηστα π.χ. σπιρτόκουτα, βότσαλα, σπασμένα μπουκάλια κλπ;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4764,
+			"RevisionId": 6360,
+			"Time": 33144,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΦΑΝΤΑΣΙΑ ΔΗΜΙΟΥΡΓΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Παρατηρώντας τα σύννεφα ξεχωρίζεις συγκεκριμένα σχήματα;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4765,
+			"RevisionId": 6361,
+			"Time": 5359,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΦΑΝΤΑΣΙΑ ΔΗΜΙΟΥΡΓΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Σου αρέσει να σχεδιάζεις;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4766,
+			"RevisionId": 6362,
+			"Time": 8862,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΦΑΝΤΑΣΙΑ ΔΗΜΙΟΥΡΓΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να ζωγραφίσεις κάτι πρωτότυπο;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4767,
+			"RevisionId": 6363,
+			"Time": 3512,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΦΑΝΤΑΣΙΑ ΔΗΜΙΟΥΡΓΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Ασχολείσαι με τη φωτογραφία;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4768,
+			"RevisionId": 6364,
+			"Time": 5733,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΦΑΝΤΑΣΙΑ ΔΗΜΙΟΥΡΓΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να φτιάξεις ένα γλυπτό χρησιμοποιώντας υλικό όπως σαπούνι, πλαστελίνη, κερί;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4769,
+			"RevisionId": 6365,
+			"Time": 4774,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΦΑΝΤΑΣΙΑ ΔΗΜΙΟΥΡΓΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Γενικά, μπορείς να δημιουργήσεις κάτι καινούργιο, πρωτότυπο και να συνδυάσεις διάφορα αντικείμενα σε ένα αρμονικό σύνολο;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4770,
+			"RevisionId": 6366,
+			"Time": 4681,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 0,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΦΑΝΤΑΣΙΑ ΔΗΜΙΟΥΡΓΙΚΟΤΗΤΑ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να γράψεις μια επιστολή στο Word;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4771,
+			"RevisionId": 6367,
+			"Time": 4704,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να χρησιμοποιείς τον υπολογιστή για να δημιουργήσεις μια αφίσα για ένα κοινωνικό γεγονός στην ομάδα που ανήκεις;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4772,
+			"RevisionId": 6368,
+			"Time": 4598,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να χρησιμοποιείς ένα λογιστικό φύλλο (spreadsheet) για να υπολογίσεις τις δαπάνες σου στο σπίτι ή στην εργασία;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4773,
+			"RevisionId": 6369,
+			"Time": 6176,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να χρησιμοποιείς το διαδίκτυο και το ηλεκτρονικό ταχυδρομείο στο σπίτι ή στην εργασία;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4774,
+			"RevisionId": 6370,
+			"Time": 4063,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να σκανάρεις φωτογραφίες και να τις εκτυπώσεις;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4775,
+			"RevisionId": 6371,
+			"Time": 3429,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να διατηρείς ένα προσωπικό αρχείο διευθύνσεων στον υπολογιστή σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4776,
+			"RevisionId": 6372,
+			"Time": 2850,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		},
+		{
+			"Title": "Μπορείς να εγκαταστήσεις ένα νέο λογισμικό στον υπολογιστή σου;",
+			"Revision": null,
+			"SectionId": 2233,
+			"QuestionId": 4777,
+			"RevisionId": 6373,
+			"Time": 3962,
+			"AswerCount": 1,
+			"Results": [
+				{
+					"Value": 1,
+					"Min": 0,
+					"Max": 1,
+					"Entity": "ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ",
+					"Control": false,
+					"Std": 0
+				}
+			]
+		}
+	],
+	"Results": [
+		{
+			"Value": 6,
+			"Min": 0,
+			"Max": 6,
+			"Entity": "ΑΝΤΙΛΗΨΗ ΧΩΡΟΥ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 7,
+			"Min": 0,
+			"Max": 8,
+			"Entity": "ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 4,
+			"Min": 0,
+			"Max": 5,
+			"Entity": "ΑΦΑΙΡΕΤΙΚΗ ΣΚΕΨΗ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 9,
+			"Min": 0,
+			"Max": 10,
+			"Entity": "ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 11,
+			"Min": 0,
+			"Max": 11,
+			"Entity": "ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 10,
+			"Min": 0,
+			"Max": 16,
+			"Entity": "ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 6,
+			"Min": 0,
+			"Max": 8,
+			"Entity": "ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 7,
+			"Min": 0,
+			"Max": 9,
+			"Entity": "ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 8,
+			"Min": 0,
+			"Max": 9,
+			"Entity": "ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 2,
+			"Min": 0,
+			"Max": 6,
+			"Entity": "ΣΩΜΑΤΙΚΗ ΑΝΤΟΧΗ ΚΑΙ ΔΥΝΑΜΗ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 5,
+			"Min": 0,
+			"Max": 5,
+			"Entity": "ΤΑΧΥΤΗΤΑ ΚΑΙ ΑΚΡΙΒΕΙΑ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 2,
+			"Min": 0,
+			"Max": 7,
+			"Entity": "ΦΑΝΤΑΣΙΑ ΔΗΜΙΟΥΡΓΙΚΟΤΗΤΑ",
+			"Control": false,
+			"Std": 0
+		},
+		{
+			"Value": 7,
+			"Min": 0,
+			"Max": 7,
+			"Entity": "ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ",
+			"Control": false,
+			"Std": 0
+		}
+	],
+	"Reports": [
+		{
+			"Id": 30,
+			"Title": "Εργαλείο Δεξιοτήτων",
+			"TextBegin": "<p class=\"fr-tag\">Κάθε επάγγελμα απαιτεί συγκεκριμένες δεξιότητες/  ικανότητες. Ωστόσο, υπάρχουν και οι οριζόντιες δεξιότητες οι οποίες είναι  απαραίτητες σε ευρύτερες ομάδες επαγγελμάτων και μπορούν να μεταβιβαστούν από  το ένα εργασιακό περιβάλλον στο άλλο. Στόχος του συγκεκριμένου εργαλείου δεν  είναι η ανάλυση και αξιολόγηση των δεξιοτήτων σας, αλλά να συνειδητοποιήσετε  ποιες δεξιότητες/ ικανότητες διαθέτετε και ποιες θα θέλατε να αναπτύξετε, ώστε  να αποκτήσετε ευχέρεια.</p>",
+			"Part": [
+				{
+					"Title": "_ΑΝΤΙΛΗΨΗ ΧΩΡΟΥ",
+					"Descr": null,
+					"Value": 6,
+					"Order": 0,
+					"Results": [
+						"<h3>ΑΝΤΙΛΗΨΗ ΧΩΡΟΥ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να λύνεις με ευκολία  τέτοιου είδους προβλήματα: τοπογράφος, πολιτικός μηχανικός, αρχιτέκτων,  σκηνογράφος, ναυπηγός, γραφίστας, διακοσμητής, σχεδιαστής τεχνικού σχεδίου κλπ.</p>"
+					]
+				},
+				{
+					"Title": "_ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Descr": null,
+					"Value": 7,
+					"Order": 1,
+					"Results": [
+						"<h3>ΑΡΙΘΜΗΤΙΚΗ ΙΚΑΝΟΤΗΤΑ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να έχεις ανεπτυγμένη την αριθμητική ικανότητα: λογιστής, ταμίας, στέλεχος εμπορικών επιχειρήσεων, υπάλληλος ξενοδοχείου, ασφαλιστής, υπάλληλος τραπέζης, έμπορος.</p>"
+					]
+				},
+				{
+					"Title": "_ΑΦΑΙΡΕΤΙΚΗ ΣΚΕΨΗ",
+					"Descr": null,
+					"Value": 4,
+					"Order": 2,
+					"Results": [
+						"<h3>ΑΦΑΙΡΕΤΙΚΗ ΣΚΕΨΗ</h3><p>Γενικά, η αφαιρετική σκέψη χρειάζεται σε όσους σκέπτονται να ακολουθήσουν μακροχρόνιες σπουδές και να εξασκήσουν επιστημονικά επαγγέλματα.</p>"
+					]
+				},
+				{
+					"Title": "_ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ",
+					"Descr": null,
+					"Value": 9,
+					"Order": 3,
+					"Results": [
+						"<h3>ΓΛΩΣΣΙΚΗ ΙΚΑΝΟΤΗΤΑ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να έχεις αναπτυγμένη γλωσσική ικανότητα: δικηγόρος, δημοσιογράφος, διπλωμάτης, διερμηνέας, δάσκαλος, καθηγητής, ψυχολόγος, ξεναγός, γραμματέας, υπάλληλος γραφείου.</p>"
+					]
+				},
+				{
+					"Title": "_ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ",
+					"Descr": null,
+					"Value": 11,
+					"Order": 4,
+					"Results": [
+						"<h3>ΙΚΑΝΟΤΗΤΑ ΔΙΑΠΡΟΣΩΠΙΚΗΣ ΕΠΑΦΗΣ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να έχεις αναπτυγμένη ικανότητα διαπροσωπικής επαφής: γιατρός, νοσοκόμος, καθηγητής, ψυχολόγος, παιδαγωγός, κοινωνικός λειτουργός.</p>"
+					]
+				},
+				{
+					"Title": "_ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ",
+					"Descr": null,
+					"Value": 10,
+					"Order": 5,
+					"Results": [
+						"<h3>ΔΙΟΙΚΗΤΙΚΟ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΝΕΥΜΑ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να έχεις αναπτυγμένο διοικητικό και επιχειρηματικό πνεύμα: διευθυντής ξενοδοχείου, ασφαλιστής, έμπορος, χρηματιστής, εμπορικός αντιπρόσωπος, διευθυντής τράπεζας κλπ.</p>"
+					]
+				},
+				{
+					"Title": "_ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ",
+					"Descr": null,
+					"Value": 6,
+					"Order": 6,
+					"Results": [
+						"<h3>ΚΑΤΑΝΟΗΣΗ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΤΕΧΝΙΚΩΝ ΠΡΟΒΛΗΜΑΤΩΝ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να κατανοείς μηχανικά και τεχνικά προβλήματα: ηλεκτρολόγος, μηχανικός, μηχανολόγος, τεχνολόγος κλπ.</p>"
+					]
+				},
+				{
+					"Title": "_ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ",
+					"Descr": null,
+					"Value": 7,
+					"Order": 7,
+					"Results": [
+						"<h3>ΟΡΓΑΝΩΤΙΚΕΣ ΔΕΞΙΟΤΗΤΕΣ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να έχεις ανεπτυγμένη αυτή τη δεξιότητα είναι: συμβολαιογράφος, βιβλιοθηκάριος, λογιστής, διοικητικός υπάλληλος, γραμματέας, δημοσιογράφος, οικονομολόγος, διαφημιστής, διευθυντής ξενοδοχείου κλπ.</p>"
+					]
+				},
+				{
+					"Title": "_ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ",
+					"Descr": null,
+					"Value": 8,
+					"Order": 8,
+					"Results": [
+						"<h3>ΕΥΕΛΙΞΙΑ ΠΡΟΣΑΡΜΟΣΤΙΚΟΤΗΤΑ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να έχεις ανεπτυγμένη αυτή τη δεξιότητα είναι: Υπάλληλος Τουριστικού Γραφείο, Τουριστικός Αντιπρόσωπος, Πωλητής Λιανικής, Στέλεχος Εξαγωγικού Εμπορίου.</p>"
+					]
+				},
+				{
+					"Title": "_ΣΩΜΑΤΙΚΗ ΑΝΤΟΧΗ ΚΑΙ ΔΥΝΑΜΗ",
+					"Descr": null,
+					"Value": 2,
+					"Order": 9,
+					"Results": []
+				},
+				{
+					"Title": "_ΤΑΧΥΤΗΤΑ ΚΑΙ ΑΚΡΙΒΕΙΑ",
+					"Descr": null,
+					"Value": 5,
+					"Order": 10,
+					"Results": [
+						"<h3>ΤΑΧΥΤΗΤΑ ΚΑΙ ΑΚΡΙΒΕΙΑ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να έχεις ανεπτυγμένη αυτή τη δεξιότητα είναι:  Υπάλληλος Γραφείου, Βοηθός Λογιστή, Ταμίας, Στέλεχος Διαχείρισης Εφοδιαστικής Αλυσίδας, Στέλεχος Διαχείρισης Ασφάλειας Τροφίμων.</p>"
+					]
+				},
+				{
+					"Title": "_ΦΑΝΤΑΣΙΑ ΔΗΜΙΟΥΡΓΙΚΟΤΗΤΑ",
+					"Descr": null,
+					"Value": 2,
+					"Order": 11,
+					"Results": []
+				},
+				{
+					"Title": "_ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ",
+					"Descr": null,
+					"Value": 7,
+					"Order": 12,
+					"Results": [
+						"<h3>ΤΕΧΝΟΛΟΓΙΑ ΤΗΣ ΠΛΗΡΟΦΟΡΙΑΣ</h3><p>Μερικά επαγγέλματα που η άσκησή τους προϋποθέτει να έχεις ανεπτυγμένη αυτή τη δεξιότητα είναι:  Υπάλληλος Γραφείου, Προγραμματιστής, Ειδικός Σχεδιασμού Ιστοσελίδων και Εφαρμογών.</p>"
+					]
+				}
+			],
+			"EndTitle": "ΣΥΝΘΕΣΗ ΙΚΑΝΟΤΗΤΩΝ",
+			"TextEnd": "<p class=\"fr-tag\">Σε αυτό το στάδιο είδες πόση ευκολία έχεις στους διάφορους τομείς:<br></p><ol class=\"fr-tag\"><li class=\"fr-tag\">Αντίληψη χώρου</li><li class=\"fr-tag\">Αριθμητική ικανότητα</li><li class=\"fr-tag\">Αφαιρετική σκέψη</li><li class=\"fr-tag\">Γλωσσική ικανότητα</li><li class=\"fr-tag\">Διαπροσωπική επαφή</li><li class=\"fr-tag\">Διοικητικό και επιχειρηματικό πνεύμα</li><li class=\"fr-tag\">Κατανόηση μηχανικών και τεχνικών προβλημάτων</li><li class=\"fr-tag\">Οργανωτικότητα</li><li class=\"fr-tag\">Ευελιξία/ προσαρμοστικότητα</li><li class=\"fr-tag\">Σωματική αντοχή και δύναμη</li><li class=\"fr-tag\">Ταχύτητα και ακρίβεια</li><li class=\"fr-tag\">Φαντασία και δημιουργικότητα</li><li class=\"fr-tag\">Τεχνολογία της πληροφορίας</li></ol><p class=\"fr-tag\"><br></p><p class=\"fr-tag\"><br></p><p class=\"fr-tag\">Κρίνοντας από τις απαντήσεις που έδωσες στις αντίστοιχες ερωτήσεις:</p><ul type=\"disc\" class=\"fr-tag\"><li style=\"text-align: justify;\" class=\"fr-tag\">Σε ποιους τομείς νομίζεις ότι έχεις περισσότερη ευχέρεια;</li><li style=\"text-align: justify;\" class=\"fr-tag\">Σε ποιους τομείς νομίζεις ότι έχεις λιγότερη ευχέρεια;</li><li style=\"text-align: justify;\" class=\"fr-tag\">Σε ποιους τομείς νομίζεις ότι θα μπορούσες να αποκτήσεις ευχέρεια αν προσπαθήσεις; </li><li style=\"text-align: justify;\" class=\"fr-tag\">Ποιους τομείς θα ήθελες να εξετάσεις περισσότερο;</li></ul>",
+			"Styles": null
+		}
+	],
+	"User": {
+		"Id": "49280874-9c4a-4949-85b8-72a61fed1e99",
+		"State": 1,
+		"Username": "49280874-9c4a-4949-85b8-72a61fed1e99",
+		"Fields": {
+			"address": "ΚΡΗΝΗ ΤΡΙΚΑΛΩΝ",
+			"adt": "ΑΜ827056",
+			"afm": "122363998",
+			"amka": "23067903072",
+			"birth_date": "23/06/1979",
+			"CertParticipationDate": "02/09/2020",
+			"CertParticipationResult": "Επιτυχών",
+			"dimos": "ΤΡΙΚΚΑΙΩΝ",
+			"district_part": "ΘΕΣΣΑΛΙΑ",
+			"education": "Μάστερ",
+			"email": "dimiskr@yahoo.gr",
+			"father_name": "ΑΘΑΝΑΣΙΟΣ",
+			"first_name": "ΔΗΜΗΤΡΙΟΣ",
+			"gender": "Άνδρας",
+			"implementation": "Φουρνονησίων 4, ΤΡΙΚΑΛΑ, 42100",
+			"implementation2": "Φουρνονησίων 4, ΤΡΙΚΑΛΑ, 42100",
+			"kayas": "089-ESEE-1-5860-2662",
+			"last_name": "ΓΑΤΣΙΟΣ",
+			"location": "ΚΡΗΝΗ ΤΡΙΚΑΛΩΝ",
+			"mdStart": "OK",
+			"mobile": "6977382144",
+			"mother_name": "ΕΥΑΓΓΕΛΙΑ",
+			"municipality": "ΤΡΙΚΑΛΩΝ",
+			"paid": "1",
+			"post": "42031",
+			"progrdescr": "Ειδικός Συστημάτων Ηλεκτρονικού εμπορίου e-Commerce (ΒΑΣΙΚΟ ΕΠΙΠΕΔΟ) - ΤΡΙΚΑΛΑ",
+			"progricode": "089/6/089/1-140",
+			"ProgrPhaseEnd": "26/08/2020",
+			"ProgrPhaseStart": "01/06/2020",
+			"SpecialtyDescr": "Ειδικός συστημάτων ηλεκτρονικού εμπορίου  (Βασικό Επίπεδο)",
+			"tmima_end": "26-08-2020",
+			"tmima_start": "01-06-2020"
+		},
+		"ProjectFields": null,
+		"Level": 1000,
+		"Roles": [
+			"Mentee"
+		],
+		"Groups": [],
+		"CacheMentors": null
+	},
+	"Summary": {
+		"Total": 84,
+		"Min": 0,
+		"Max": 107,
+		"Avg": 6.46153831,
+		"Std": 2.64910388,
+		"Var": 7.01775169
+	}
+}
